@@ -1,0 +1,40 @@
+Sample Input 1:
+2 7
+add 1 abcd
+add 2 bcda
+longest
+all
+swap 1 2
+longest 
+all
+
+Sample Input 2:
+3 8
+add 1 abcd
+add 2 meow
+add 3 bcda
+all
+delete 2 2
+all
+delete 2 5
+all
+
+Sample Output 1:
+4 abcd
+abcd
+bcda
+4 bcda
+bcda
+abcd
+
+
+Sample Output 2:
+abcd
+meow
+bcda
+abcd
+me
+bcda
+abcd
+
+bcda

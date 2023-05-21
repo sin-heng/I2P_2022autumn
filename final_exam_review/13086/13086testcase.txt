@@ -1,0 +1,25 @@
+5
+abc def
+0 0
+abc def
+1 0
+abc def
+2 5
+abc def
+3 8
+abc def
+4 7
+
+
+abc
+def
+abcdef
+defabcdef
+abcdefdefabcdef
+
+
+a
+d
+f
+f
+e

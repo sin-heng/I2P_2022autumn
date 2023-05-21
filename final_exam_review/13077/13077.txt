@@ -1,0 +1,42 @@
+13077 測試過的結果
+
+Sample Input 1:
+8
+INSERT 10 John
+INSERT 33 Jojo
+TOP 2
+INSERT 20 Pual
+DELETE Jojo
+INSERT 20 Sasa
+TOP 1
+TOP 3
+
+Outcome 1:
+Top 2:
+33 Jojo
+10 John
+Top 1:
+20 Pual
+Top 3:
+20 Pual
+20 Sasa
+10 John
+
+Sample Input 2:
+6
+INSERT 20 JOJO
+INSERT 10 JOHN
+TOP 2
+INSERT 20 ENNO
+INSERT 20 APPLE
+TOP 4
+
+Outcome 2:
+Top 2:
+10 JOHN
+20 JOJO
+Top 4:
+20 APPLE
+20 ENNO
+10 JOHN
+20 JOJO

@@ -1,0 +1,66 @@
+# Sample Input 1
+
+cewodaxnjv
+10
+3 1 8
+3 4 5
+2 1 i
+1 c t
+1 b o
+1 y x
+1 d w
+2 7 f
+2 7 o
+1 o d
+
+# Sample Input 2
+
+mrxsjdtkwivtwemvtwwk
+5
+3 5 13
+1 r o
+1 d o
+3 16 15
+2 13 f
+
+# Sample Input 3
+
+upqyosptnpbbezwxaufzms
+5
+1 j d
+3 14 3
+1 t o
+2 9 m
+2 16 k
+
+# Sample Input 4
+
+klerprafhnravjgzhrglqe
+10
+3 15 19
+1 h v
+1 r c
+3 7 13
+2 11 u
+2 14 y
+2 21 q
+2 21 p
+1 x e
+1 q i
+
+# Sample Output 1
+
+tiwdawxdev
+
+# Sample Output 2
+
+moxsjetkwivtwfmtvwwk
+
+# Sample Output 3
+
+upqwosponmbbezyxkufzms
+
+# Sample Output 4
+
+klecpcajvncuvfylvcgzip
+
